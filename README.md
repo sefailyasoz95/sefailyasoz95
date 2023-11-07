@@ -1,4 +1,4 @@
 - 👋 Hi, I’m Sefa İlyas Öz
 - 👀 I’m interested in Web and Mobile Application Development
-- 💞️ I love using React, React Native, TypeScript and Redux (Toolkit) for all of my projects.
-- 📫 You can reach me by emailing to sefailyas1455@gmail.com
+- 💞️ I love using React, React Native, TypeScript, Redux (Toolkit), NextJS, TailwindCSS, Prisma, MongoDB, NestJS for all of my projects.
+- 📫 You can reach me by emailing to info@sefailyasoz.com
